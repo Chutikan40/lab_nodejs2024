@@ -3,7 +3,7 @@ const router = express.Router();
 const blogs = [
   {
     id: 1,
-    title: "กิ๊ก",
+    title: "กิ๊ก จ้า",
     description: "ชุติกาญจน์ นามวิจิตร ",
     cover:
       "https://img.salehere.co.th/p/600x0/2021/04/12/bof2nyavzxvr.jpg",
