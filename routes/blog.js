@@ -3,10 +3,10 @@ const router = express.Router();
 const blogs = [
   {
     id: 1,
-    title: "นายอน (Nayeon) ชาวเกาหลี",
-    description: "อิม นายอน  (Im Nayeon) ",
+    title: "กิ๊ก",
+    description: "ชุติกาญจน์ นามวิจิตร ",
     cover:
-      "https://cms.dmpcdn.com/musicarticle/2020/10/08/9376de90-0940-11eb-b35d-299eb29d6529_original.jpg",
+      "https://img.salehere.co.th/p/600x0/2021/04/12/bof2nyavzxvr.jpg",
   },
   {
     id: 2,
@@ -63,6 +63,13 @@ const blogs = [
     description: "โจว จื่อวี่ (Chou Tzu Yu)",
     cover:
       "https://cms.dmpcdn.com/musicarticle/2020/10/08/93f00630-0940-11eb-a3b0-f9d575a2517d_original.jpg",
+  },
+  {
+    id: 10,
+    title: "ถานไถ้จิ้น (Tantaijain) ชาวจีน",
+    description: "จอมมาร ถานไถ้จิ้น(Tantaijain demon)",
+    cover:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtljJBbqdtdmOVHWy2fLcLO7xZQvw_Eynow&usqp=CAU",
   },
 ];
 

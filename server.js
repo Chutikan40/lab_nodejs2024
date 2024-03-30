@@ -11,7 +11,7 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "WE DPU Student API",
+      title: "66130076 ชุติกาญจน์ นามวิจิตร API",
       version: "1.0.0",
       description: "WE DPU Student API  Lab",
     },
